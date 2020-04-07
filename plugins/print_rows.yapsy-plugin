@@ -1,9 +1,0 @@
-[Core]
-Name = Print selected rows
-Module = print_rows
-
-[Documentation]
-Author = Teemu
-Version = 0.1
-Website = https://github.com/teemu-l/execution-trace-viewer
-Description = Prints selected rows

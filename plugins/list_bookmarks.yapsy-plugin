@@ -1,9 +1,0 @@
-[Core]
-Name = List bookmarks
-Module = list_bookmarks
-
-[Documentation]
-Author = Teemu
-Version = 0.1
-Website = https://github.com/teemu-l/execution-trace-viewer
-Description = Lists all bookmarks

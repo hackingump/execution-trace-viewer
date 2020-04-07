@@ -1,9 +1,0 @@
-[Core]
-Name = Print execution counts
-Module = exec_counts
-
-[Documentation]
-Author = Teemu
-Version = 0.1
-Website = https://github.com/teemu-l/execution-trace-viewer
-Description = Print execution counts for top 30 most executed addresses
