@@ -1,4 +1,4 @@
-# x64DbgTools
+# x64DbgTraceTools
 
 This fork is simply to extract the parser from the original `execution-trace-viewer` by `teemu-I`.
 
